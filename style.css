@@ -1,0 +1,22 @@
+@media print {
+  .container {
+    width: auto;
+  }
+}
+
+img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+
+
+
+h3 {
+color: #e36963
+
+}
+
+a:link {
+  color: green;
+
+}
